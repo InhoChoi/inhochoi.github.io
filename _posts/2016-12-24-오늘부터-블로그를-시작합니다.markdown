@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "2016-12-24(토) 오늘부터 블로그를 시작합니다."
+date:   2016-12-24 18:53:00 +0900
+categories: jekyll update
+---
+
+Github Pages + Jekyll를 이용하여 블로그를 시작합니다.
+
+주로 SW 관련 개발에 대한 이야기를 주로 포스트 할 계획입니다.
