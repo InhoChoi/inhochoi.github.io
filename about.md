@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+# 최인호 (In-Ho Choi)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+- SW Developer
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+- 국민대학교 전자공학 졸업예정(2017)
+
+- SW Maestro 6기 1단계/2단계 수료 (2015 ~ 2016)
+
+# Technical Skill
+
+- Embedded System & Hardware (Cortex M3, Linux, Arduino)
+
+- Web Framework (React, Redux / JQuery)
+
+- Server Framework (Go, Node.js, Python)
