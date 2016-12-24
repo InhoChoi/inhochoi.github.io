@@ -2,7 +2,7 @@
 layout: post
 title:  "Jekyll를 이용한 Gihutb pages 만들기"
 date:   2016-12-24 18:56:00 +0900
-categories: jekyll update
+categories: jekyll
 ---
 
 # Jekyll Install

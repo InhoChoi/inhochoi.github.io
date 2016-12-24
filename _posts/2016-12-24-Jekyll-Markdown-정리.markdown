@@ -2,8 +2,9 @@
 layout: post
 title:  "Jekyll Markdown 정리"
 date:   2016-12-24 19:04:00 +0900
-categories: jekyll update
+categories: jekyll
 ---
+{{ site.time }}
 
 [Reference](https://kramdown.gettalong.org/syntax.html#emphasis)
 
@@ -98,7 +99,7 @@ void main(){
 ~~~
 {: .language-c}
 
-#List
+# List
 
 ```
 * kram
